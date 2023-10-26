@@ -13,8 +13,8 @@
     </thead>
     <tbody>
         <tr>
-            <th rowspan="14">TestCaseBuyAProduct1</th>
-            <th rowspan="14">Высокий</th>
+            <th>TestCaseBuyAProduct1</th>
+            <th>Высокий</th>
             <th>Проверить добавление товара в корзину под авторизованным пользователем и осуществить покупку</th>
             <th>Зарегистрированный пользователь на сайте https://www.saucedemo.com/</th>
             <th>1</th>
