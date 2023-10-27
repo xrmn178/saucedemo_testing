@@ -13,8 +13,8 @@
     </thead>
     <tbody>
         <tr>
-            <th rowspan="14">TestCaseBuyAProduct1</th>
-            <th rowspan="14">Высокий</th>
+            <th>TestCaseBuyAProduct1</th>
+            <th>Высокий</th>
             <th>Проверить добавление товара в корзину под авторизованным пользователем и осуществить покупку</th>
             <th>Зарегистрированный пользователь на сайте https://www.saucedemo.com/</th>
             <th>1</th>
@@ -23,6 +23,8 @@
             <th>пройдено</th>
         </tr>
         <tr>
+            <th></th>
+            <th></th>
             <th></th>
             <th>login - standard_user</th>
             <th>2</th>
@@ -34,6 +36,8 @@
         </tr>
         <tr>
             <th></th>
+            <th></th>
+            <th></th>
             <th>password - secret_sauce</th>
             <th>3</th>
             <th>Введи в поле "Password": "secret_sauce"</th>
@@ -41,6 +45,8 @@
             <th>пройдено</th>
         </tr>
         <tr>
+            <th></th>
+            <th></th>
             <th></th>
             <th></th>
             <th>4</th>
@@ -51,6 +57,8 @@
         <tr>
             <th></th>
             <th></th>
+            <th></th>
+            <th></th>
             <th>5</th>
             <th>Найди товар "Sauce Labs Backpack"</th>
             <th></th>
@@ -59,12 +67,16 @@
         <tr>
             <th></th>
             <th></th>
-             <th>6</th>
+            <th></th>
+            <th></th>
+            <th>6</th>
             <th>Найди кнопку "Add to card" </th>
             <th></th>
             <th>пройдено</th>
         </tr>
         <tr>
+            <th></th>
+            <th></th>
             <th></th>
             <th></th>
             <th>7</th>
@@ -75,12 +87,16 @@
         <tr>
             <th></th>
             <th></th>
+            <th></th>
+            <th></th>
             <th>8</th>
             <th>Кликни на "Тележку" (правый верхний угол)</th>
             <th>Перейдешь на покупки котоырые хочешь купить</th>
             <th>пройдено</th>
         </tr>
         <tr>
+            <th></th>
+            <th></th>
             <th></th>
             <th></th>
             <th>9</th>
@@ -90,6 +106,8 @@
         </tr>
         <tr>
             <th></th>
+            <th></th>
+            <th></th>
           <th>firstName - First Name</th>
             <th>10</th>
             <th>Введи в поле "firstName": "First Name"</th>
@@ -98,7 +116,9 @@
         </tr>
         <tr>
             <th></th>
-           <th>lastName - Last Name</th>
+            <th></th>
+            <th></th>
+            <th>lastName - Last Name</th>
             <th>11</th>
             <th>Введи в поле "lastName": "Last Name"</th>
             <th>Заполененное поле Last Name "Last Name"</th>
@@ -106,13 +126,17 @@
         </tr>
         <tr>
             <th></th>
-             <th>postalCode - 123</th>
+            <th></th>
+            <th></th>
+            <th>postalCode - 123</th>
             <th>12</th>
             <th>Введи в поле "Zip/postalCode": "123"</th>
             <th>Заполененное поле Zip'/Postal Code "123"</th>
             <th>пройдено</th>
         </tr>
         <tr>
+            <th></th>
+            <th></th>
             <th></th>
             <th></th>
             <th>13</th>
@@ -123,11 +147,11 @@
         <tr>
             <th></th>
             <th></th>
+            <th></th>
+            <th></th>
             <th>14</th>
-            <th>Нажми кнопку "Finish"th>
+            <th>Нажми кнопку "Finish"</th>
             <th>Перекинет на страницу с "Thank you for your order!"</th>
             <th>пройдено</th>
         </tr>
-        
-    
-</table>
+    </table>
